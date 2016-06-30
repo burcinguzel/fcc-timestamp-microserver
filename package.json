@@ -1,5 +1,5 @@
 {
-  "name": "Timestamp Microserver",
+  "name": "TimestampMicroserver",
   "version": "1.0.0",
   "description": "Timestamp Microservice",
   "main": "timestamp.js",
@@ -18,12 +18,12 @@
   },
   "author": "Burcin Guzel",
   "license": "None",
+  "engines":
+  {
+    "npm":"~3.8.6"
+    "node":"~5.11.1"
+  }
   "dependencies": {
-    "dotenv": "^1.2.0",
-    "express": "^4.12.4",
-    "express-session": "^1.11.3",
-    "mongoose": "^4.1.0",
-    "passport": "^0.3.0",
-    "passport-github": "^1.0.0"
+
   }
 }
