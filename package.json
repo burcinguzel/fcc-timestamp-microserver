@@ -20,8 +20,8 @@
   "license": "None",
   "engines":
   {
-    "npm":"~3.8.6"
-    "node":"~5.11.1"
+    "npm": "~3.8.6",
+    "node": "~5.11.1"
   }
   "dependencies": {
 
